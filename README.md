@@ -7,3 +7,4 @@ Each furniture type might have its own unique shipping cost calculation logic. F
 Implement a visitor design pattern approach. You must show the different elements of visitor design in your solution.  DO NOT USE ABSTRACT CLASSES. You are free to name your interfaces and concrete classes. Have a client code that will test your program.
 
 ## Refer to the UML Class Diagram
+![LabAssignment_VisitorDesignPattern_UML_Class_Diagram](https://github.com/alea-progaming/visitor-design-pattern-LabAssignment/assets/110019094/b67937de-61d9-4aa7-84be-7e97bcd3eba3)
